@@ -3,13 +3,12 @@
 Aki Hub, kullanıcıları farklı içerik kategorilerine yönlendiren ve gelişmiş öneri sistemleri sunan merkezi bir platform projesidir. Bu repository, Aki Hub'ın frontend kısmını içermektedir.
 
 ## 🚀 Proje Özellikleri
-```markdown
+
 - **Çoklu İçerik Kategorileri**: Film/Dizi, Müzik, Anime ve AI araçları için özel sayfalar
 - **Rastgele İçerik Önerileri**: Her kategori için özelleştirilebilir rastgele öneri sistemleri
 - **Kişiselleştirilmiş Kullanıcı Deneyimi**: Kullanıcı tercihlerine göre içerik önerileri
 - **Duyarlı Tasarım**: Tüm cihazlarda (mobil, tablet, masaüstü) sorunsuz çalışan arayüz
 - **Modern UI/UX**: Minimalist ve kullanıcı dostu arayüz tasarımı
-```
 
 ## 🛠️ Teknolojiler
 
