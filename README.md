@@ -99,6 +99,7 @@ Bu proje MIT Lisansı altında lisanslanmıştır.
 📞 İletişim
 Proje Sahibi - [Discord](https://discord.com/users/337545269845688361) | [Github](https://github.com/Akiracik)
 
+Proje Demosu: https://akihub-frontend-demo.vercel.app/
 Proje Linki: https://github.com/akiracik/akihub-frontend
 
 
