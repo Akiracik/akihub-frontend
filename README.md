@@ -21,7 +21,7 @@ Aki Hub, kullanıcıları farklı içerik kategorilerine yönlendiren ve gelişm
 
 ## 📂 Proje Yapısı
 src/
-├── assets/ # Görseller, fontlar, statik dosyalar
+├── assets/ # Görseller, fontlar, statik dosyalar \n
 ├── components/ # Yeniden kullanılabilir UI bileşenleri
 │ ├── common/ # Butonlar, kartlar, navigasyon gibi ortak bileşenler
 │ ├── layout/ # Header, footer, sidebar gibi düzen bileşenleri
