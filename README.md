@@ -53,13 +53,11 @@ Aki Hub, kullanıcıları farklı içerik kategorilerine yönlendiren ve gelişm
 ```markdown
 1. npm install
 2. npm run dev
-
-Tarayıcınızda http://localhost:3000 adresine gidin.
 ```
-
+Tarayıcınızda http://localhost:3000 adresine gidin.
 
 ## 📱 Özellikler
-```markdown
+
 Ana Sayfa
 Kategori erişim kartları
 Trend içerikler
@@ -90,7 +88,6 @@ Kullanıcı bilgileri
 Favoriler
 İzleme/dinleme geçmişi
 Hesap ayarları
-```
 
 ## ⚠️ Önemli Not
 
