@@ -12,14 +12,13 @@ Aki Hub, kullanıcıları farklı içerik kategorilerine yönlendiren ve gelişm
 ```
 
 ## 🛠️ Teknolojiler
-```markdown
+
 - **React.js**: Kullanıcı arayüzü geliştirme
 - **Redux**: Durum yönetimi
 - **React Router**: Sayfa yönlendirme
 - **Styled Components**: CSS-in-JS stilendirme
 - **Framer Motion**: Animasyonlar
 - **Axios**: API istekleri
-```
 
 ## 📂 Proje Yapısı
 ```markdown
